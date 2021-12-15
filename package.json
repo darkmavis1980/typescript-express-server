@@ -1,7 +1,7 @@
 {
   "name": "typescript-node",
   "version": "0.1.0",
-  "description": "",
+  "description": "Express.js server with TypeScript support example",
   "main": "dist/index.js",
   "scripts": {
     "dev": "nodemon ./src/index.ts",
